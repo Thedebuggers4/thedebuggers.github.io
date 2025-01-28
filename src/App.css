@@ -1,0 +1,116 @@
+@media (max-width: 570px) {/* Semua handphone */
+  #features {
+    padding: 20px;
+    width: 100%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 100%;
+  }
+
+  #portfolio {
+    width: 100%;
+  }
+  .intro h1 {
+    font-size: 5.3vw;
+  }
+  .intro h1 span {
+    font-weight: 800;
+  }
+  header .first {
+    font-size: 5vw;
+  }
+  .intro .two {
+    font-size: 4vw;
+    width: 100%;
+    margin-left: 0;
+    padding-top: 30px;
+    line-height: 20px;
+  }
+  header .intro-text {
+    padding-top: 350px;
+    bottom: 60vw;
+  }
+  #main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+
+  }
+  #lnch_btn {
+    padding: 10px 15px;
+  }
+  #lnch_btn i {
+    font-size: 1.5rem;
+  }
+  #lnch {
+    max-width: 100%;
+    width:100%;
+    font-size: 1.5rem;
+  }
+  .contact-info {
+    top: 50px;
+    bottom: auto;
+  }
+  #contact .form-comtainer{
+    top: 85px;
+  }
+  #about img {
+    margin-top: -75px;
+  }
+  #menu img {
+    width: 50vw;
+    height: 10vw;
+    margin:0;
+    bottom: 8.5px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {/* untuk tab / ipad */
+  #about img {
+    margin-top: -100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .contact-info {
+    top: 50px;
+    bottom: auto;
+  }
+  #lnch {
+    max-width: 100%;
+    width: 100vw;
+  }
+  #lnch_btn {
+    padding: 6.5px 20px;
+  }
+  #footer {
+    margin-top: 40px;
+  }
+  header .intro-text {
+    padding-top: 350px;
+  }
+  .intro h1 {
+    font-size: 5.8vw;
+  }
+  header .first {
+    font-size: 5vw;
+  }
+  #menu img {
+    width: 20vw;
+    height: 6.5vw;
+  }
+  .intro .two {
+    font-size: 4vw;
+    width: 100%;
+    margin-left: 0;
+    line-height: 30px;
+  }
+  #about {
+    padding: 170px 0;
+  }
+}
+

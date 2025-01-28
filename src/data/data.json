@@ -1,0 +1,116 @@
+{
+  "Header": {
+  },
+  "About": {
+    "paragraph": "The Debugger is a team or company that provides various services in the field of digital technology, specializing in the development and design of digital products. Their primary focus is to assist businesses and individuals in creating effective, innovative, and user-friendly technological solutions.",
+    "Why": [
+      "Experienced and Professional Team",
+      "Focus on Client Needs",
+      "Modern and Functional Design",
+      "Transparent Process"
+    ],
+    "Why2": [
+      "Prototypes for Initial Validation",
+      "Reliable Technology Solutions",
+      "After-Service Support"    
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Movie Landing Page",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/1.png?updatedAt=1731850150413",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/1.png?updatedAt=1731850150413"
+    },
+    {
+      "title": "Smart Home Landing Page",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/2.png?updatedAt=1731850149968",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/2.png?updatedAt=1731850149968"
+    },
+    {
+      "title": "Simple Dashboard in Light & Dark",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/3.png?updatedAt=1731850150145",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/3.png?updatedAt=1731850150145"
+    },
+    {
+      "title": "Everest Sales Dashboard",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/4.png?updatedAt=1731850150152",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/4.png?updatedAt=1731850150152"
+    },
+    {
+      "title": "E-commerce UI Kit",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/5.png?updatedAt=1731850149874",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/5.png?updatedAt=1731850149874"
+    },
+    {
+      "title": "E-commerce User Dashboard",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/6.png?updatedAt=1731850150306",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/6.png?updatedAt=1731850150306"
+    },
+    {
+      "title": "Fitness Mobile App",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/7.png?updatedAt=1731850150026",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/7.png?updatedAt=1731850150026"
+    },
+    {
+      "title": "Finance Mobile App",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/8.png?updatedAt=1731850165049",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/8.png?updatedAt=1731850165049"
+    },
+    {
+      "title": "Apps Dashboard Admin",
+      "largeImage": "https://ik.imagekit.io/thedebuggers/9.png?updatedAt=1731850165121",
+      "smallImage": "https://ik.imagekit.io/thedebuggers/9.png?updatedAt=1731850165121"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-pencil-square-o",
+      "name": "UI/UX Design",
+      "text": "Delivering engaging user experiences through intuitive interface designs."
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Web & Mobile Design",
+      "text": "Developing aesthetic and responsive web and mobile designs."
+    },
+    {
+      "icon": "fa fa-desktop",
+      "name": "Landing Page",
+      "text": "Creating landing pages designed to increase conversion rates."
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Development",
+      "text": "Offering software and application development tailored to business needs."
+    }
+  ],
+  "Team": [
+    {
+      "name": "ARYA DILLAH",
+      "category": "Back-End Developer",
+      "link":"https://aryadillah.vercel.app/",
+      "img": "https://ik.imagekit.io/thedebuggers/arya.jpg?updatedAt=1731850479565"
+    },
+    {
+      "name": "ADI SATRIA SEJATI",
+      "category": "Full-Stack Developer",
+      "link":"https://adisatriasejati.vercel.app/",
+      "img": "https://ik.imagekit.io/AdiSatriaSejati/Aing.jpg?updatedAt=1729184207940"
+    },
+    {
+      "name": "FEBRIAN SITORUS",
+      "category": "Front-End Developer",
+      "img": "https://ik.imagekit.io/thedebuggers/febri.jpg?updatedAt=1731850479174"
+    },
+    {
+      "name": "M. TAUFIQ RENDRADI",
+      "category": "UI & UX Designer",
+      "link":"https://mtaufikrendradi.github.io/",
+      "img": "https://ik.imagekit.io/thedebuggers/taufiq.jpg?updatedAt=1731850481503"
+    }
+  ],
+  "Contact": {
+    "phone": "+62 896 4735 2044",
+    "email": "thedebuggerss@gmail.com"
+  }
+}
