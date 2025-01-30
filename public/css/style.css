@@ -91,9 +91,10 @@ hr {
 }
 
 #menu.navbar-default {
-  background: linear-gradient(to right, #000 0%, #423d3d 100%);
+  background: transparent;
   border-color: rgba(231, 231, 231, 0);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.90);
+  backdrop-filter: blur(10px);
 }
 #menu img{
   position: relative;
@@ -104,7 +105,7 @@ hr {
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Inter", sans-serif;
-  color: #fff;
+  color: #000;
   font-size: 20px;
   font-weight: 400;
   padding: 8px 2px;
